@@ -85,6 +85,18 @@ body {
 footer {
   text-align: center;
 }
+h1 {
+  text-align: center;
+}
+form {
+  text-align: center;
+  opacity: 0.9;
+  border: 15px solid grey;
+  margin: 200px;
+  background-image: url(ofarm.jpg);
+  background-size: cover;
+  padding: 5%;
+}
 
 @media only screen and (max-width: 600px) {
   body {
